@@ -1,7 +1,7 @@
 
 # RS & CAN SLIM Standalone Scanner
 
-!(example_report_close_up.png)
+![close up image](example_report_close_up.png)
 
 ![Example Report Screenshot](example_report.png)
 
