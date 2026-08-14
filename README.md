@@ -1,7 +1,7 @@
 ```markdown
 # RS & CAN SLIM Standalone Scanner
 
-> A standalone stock screener that computes Relative Strength ratings and CAN SLIM grades, generating a self-contained HTML report styled like the Investing Compass app.
+> A standalone stock screener that computes Relative Strength ratings and CAN SLIM grades, generating a self-contained HTML report -  Investing Compass .
 
 ## Overview
 
