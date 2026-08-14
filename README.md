@@ -1,4 +1,4 @@
-```markdown
+
 # RS & CAN SLIM Standalone Scanner
 ![Example Report Screenshot](example_report.png)
 
