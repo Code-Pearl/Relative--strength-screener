@@ -1,7 +1,7 @@
 ```markdown
 # RS & CAN SLIM Standalone Scanner
-
 ![Example Report Screenshot](example_report.png)
+
 
 > A standalone stock screener that computes Relative Strength ratings and CAN SLIM grades, generating a self-contained HTML report -  Investing Compass .
 
@@ -21,6 +21,7 @@ This tool takes a list of ticker symbols, fetches price and fundamental data, an
 ```bash
 pip install yfinance pandas numpy
 ```
+
 
 > **Note:** `yfinance` is lazily imported – use `--demo` mode to preview without installing yfinance.
 
